@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1457126420 source:c:\codeblocks\projects\luatest\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<cmath>
+	<ctime>
+	"lua.hpp"
+
+1103763184 c:\codeblocks\projects\luatest\include\lua.hpp
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1447435122 c:\codeblocks\projects\luatest\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1445447860 c:\codeblocks\projects\luatest\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1391707953 c:\codeblocks\projects\luatest\include\lualib.h
+	"lua.h"
+
+1448278183 c:\codeblocks\projects\luatest\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
