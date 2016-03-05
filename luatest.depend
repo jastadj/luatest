@@ -31,3 +31,41 @@
 	<stdio.h>
 	"lua.h"
 
+1457133310 source:c:\codeblocks\projects\luatest\src\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<cmath>
+	<ctime>
+	"oolua.h"
+
+1457132498 c:\codeblocks\projects\luatest\include\oolua.h
+	"lua/lua.h"
+	"lua/lauxlib.h"
+	"lua/lualib.h"
+	"lua.hpp"
+	<stdint.h>
+	<stdint.h>
+	<cassert>
+	<cassert>
+	<string>
+	<exception>
+	<cstddef>
+	<cassert>
+	<string>
+	<string>
+	<cassert>
+	<cassert>
+	<string>
+	<string>
+	<cassert>
+
+1457132280 source:c:\codeblocks\projects\luatest\src\oolua.cpp
+	"oolua.h"
+	<cstring>
+	<iostream>
+	<string>
+	<string>
+	<cassert>
+	<string>
+
