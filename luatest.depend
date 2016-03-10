@@ -69,3 +69,65 @@
 	<cassert>
 	<string>
 
+1457637672 source:c:\documents and settings\jjastad\my documents\codeblocks\projects\luatest\src\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<cmath>
+	<ctime>
+	"lua.hpp"
+
+1457636518 c:\documents and settings\jjastad\my documents\codeblocks\projects\luatest\include\lua.hpp
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1457636518 c:\documents and settings\jjastad\my documents\codeblocks\projects\luatest\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1457636518 c:\documents and settings\jjastad\my documents\codeblocks\projects\luatest\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1457636518 c:\documents and settings\jjastad\my documents\codeblocks\projects\luatest\include\lualib.h
+	"lua.h"
+
+1457636518 c:\documents and settings\jjastad\my documents\codeblocks\projects\luatest\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1457636518 source:c:\documents and settings\jjastad\my documents\codeblocks\projects\luatest\src\oolua.cpp
+	"oolua.h"
+	<cstring>
+	<iostream>
+	<string>
+	<string>
+	<cassert>
+	<string>
+
+1457636518 c:\documents and settings\jjastad\my documents\codeblocks\projects\luatest\include\oolua.h
+	"lua/lua.h"
+	"lua/lauxlib.h"
+	"lua/lualib.h"
+	"lua.hpp"
+	<stdint.h>
+	<stdint.h>
+	<cassert>
+	<cassert>
+	<string>
+	<exception>
+	<cstddef>
+	<cassert>
+	<string>
+	<string>
+	<cassert>
+	<cassert>
+	<string>
+	<string>
+	<cassert>
+
